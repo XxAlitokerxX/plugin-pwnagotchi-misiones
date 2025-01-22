@@ -1,6 +1,6 @@
 Create exp.py
 Descripción Completa del Plugin
-El EXP Plugin está diseñado para integrarse con el sistema del Pwnagotchi y ofrecer un sistema de experiencia y misiones dinámico. Este plugin recompensa al usuario con puntos de experiencia (EXP) por realizar acciones específicas, como capturar handshakes, realizar asociaciones, o completar misiones de inteligencia artificial (IA). También incluye un sistema de misiones que agrega objetivos progresivos para incentivar interacciones y mejorar el comportamiento del Pwnagotchi.
+El EXP Plugin está diseñado para integrarse con el sistema del Pwnagotchi y ofrecer un sistema de experiencia y misiones dinámico. Este plugin recompensa al usuario con puntos de experiencia (EXP) por realizar acciones específicas, como capturar handshakes, realizar asociaciones, o completar entrenamientos de inteligencia artificial (IA). También incluye un sistema de misiones que agrega objetivos progresivos para incentivar interacciones y mejorar el comportamiento del Pwnagotchi.
 
 Funcionalidades Clave:
 Sistema de Experiencia:
